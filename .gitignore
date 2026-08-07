@@ -42,7 +42,6 @@ venv/
 .pytest_cache/
 
 # editors / os
-.vscode/
 .idea/
 .DS_Store
 *.swp
@@ -59,3 +58,7 @@ venv/
 # confusing one to debug.
 !tests/fixtures/
 !tests/fixtures/**
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
